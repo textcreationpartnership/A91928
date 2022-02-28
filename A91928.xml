@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great fight at VValmer Castle in the county of Kent, between the Parliaments forces who had besieged the said Castle, and the forces sent over by his Highnesse the Prince of Wales. With the manner of the fight, the success thereof, and the number that were slain on both sides. Likewise, the Princes relieving of the two casltes of Deal and Sandown. And the Declaration of the new raised forces at Hounsley-Heath, for the King, and their resolution touching the Parliament and Army.</title>
+            <author>D. R. (Daniel Rogers), 1573-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91928</idno>
+            <idno type="STC">Wing R1796</idno>
+            <idno type="STC">Thomason E451_21</idno>
+            <idno type="STC">ESTC R205260</idno>
+            <idno type="EEBO-CITATION">99864677</idno>
+            <idno type="PROQUEST">99864677</idno>
+            <idno type="VID">161936</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161936)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great fight at VValmer Castle in the county of Kent, between the Parliaments forces who had besieged the said Castle, and the forces sent over by his Highnesse the Prince of Wales. With the manner of the fight, the success thereof, and the number that were slain on both sides. Likewise, the Princes relieving of the two casltes of Deal and Sandown. And the Declaration of the new raised forces at Hounsley-Heath, for the King, and their resolution touching the Parliament and Army.</title>
+                  <author>D. R. (Daniel Rogers), 1573-1652.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for generall satisfaction of all loyall subjects,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>MDCXLVIII [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signed on p.4: D.R. (i.e. Daniel Rogers).</note>
+                  <note>Annotation on Thomason copy: "July 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161936:1" rendition="simple:additions"/>
+            <p>A GREAT FIGHT AT Walmer Castle In the County of KENT, BETWEEN The Parliaments Forces who had beſieged the ſaid Caſtle, and the forces ſent over by His Highneſſe the Prince of <hi>Wales.</hi> With the manner of the Fight, the ſucceſs thereof, and the number that were ſlain on both ſides.</p>
+            <p>Likewiſe, the Princes relieving of the two Caſtles of <hi>Deal</hi> and <hi>Sandown.</hi> And the Declaration of the new raiſed Forces at <hi>Hounſley</hi>-Heath, for the <hi>King,</hi> and their reſolution touching the Parlia<g ref="char:EOLhyphen"/>ment and Army.</p>
+            <p>Printed for generall ſatisfaction of all loyall ſubjects, MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161936:2"/>
+            <pb n="1" facs="tcp:161936:2"/>
+            <head>STRANGE NEVVES FROM KINGSTON Concerning The gathering together of a great party of Horſe for the King, and their Reſolution to ſettle Him in His Royall Throne.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THe Royaliſts in theſe parts begin to grow to a great head, and the diſaffected party ſeemes ſomewhat numerous; they give out, that they are joyntly reſolved, to have the King immediatly in<g ref="char:EOLhyphen"/>throned, and that they have a great party in <hi>London</hi> who
+<pb n="3" facs="tcp:161936:3"/>are reſolved to joyn with them for the accompliſhing the ſame; and indeed it doth manifeſtly appear to be truth, inſtanced by their preſent commotions about the to vnsadjacent, for upon Tueſday night laſt, a party of Horſe marched over the Bridge into this town, and quartered here all night, but kept a Horſe Guard at the Bridge Foot, and another at the further end of the town, and in the morning about 9. of the clocke they all marched over the Bridge, and drew up into a Bo<g ref="char:EOLhyphen"/>dy, and declared their reſolution, to ſtand and fall, and live and dye together, in their preſent Engagement for there inthroning of the King, and ſetling of the peace of the Kingdome; but their immediate actions ſoone changed the fair gloſſe of their ſubtill pretences, for di<g ref="char:EOLhyphen"/>vers of them rode out into the country, and diſturbed the peace of the country, uſing many inſolent out ra<g ref="char:EOLhyphen"/>ges, and plundering divers wel-affected and godly per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>Their numbers increaſe dayly, and unleſſe ſpeedily prevented, will grow to a great head.</p>
+            <p>It is reported, that divers great ones are amongſt them, as ſeverall Earles and Lords, <hi>viz.</hi> the young Duke of <hi>Buckingham,</hi> the Earl of <hi>Holland,</hi> and ſeverall other Lords of eminency.</p>
+            <p>Some report, that if they be not ſuppreſſed within 2 or 3 dayes, their number will increaſe to many thou<g ref="char:EOLhyphen"/>ſands.</p>
+            <p>Others again report, that ſo ſoon as they have gai<g ref="char:EOLhyphen"/>ned a conſiderable party, they are reſolved to raiſe the ſiege at Colcheſter.</p>
+            <p>They ſeize upon all the Horſe that poſſible they can light of, and many country Royaliſts come in unto
+<pb n="3" facs="tcp:161936:3"/>them, they are gallantly mounted, and exceeding well armed, and gives out many reproachfull ſpeeches a<g ref="char:EOLhyphen"/>gainſt the Parliament. Sir, by the next, you ſhall re<g ref="char:EOLhyphen"/>ceive a more fuller account, from</p>
+            <closer>
+               <signed>Your most humble and devoted ſervant, Daniel Rogers.</signed>
+               <dateline>
+                  <hi>Kingſton</hi> 
+                  <date>6. July, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>VPon the cloſe of this Letter, a further diſcovery was made of the deſigns and intentions of the new liſted Army, <hi>viz.</hi> Vpon their meeting and randevouring together, they declared for the King, and proteſted to live and dye in the ſaid engagement. Their number con<g ref="char:EOLhyphen"/>ſiſts of about 8. or 900, Many of them came from <hi>London,</hi> both Gentlemen, and Apprentices, and many of them of the counties of Surrey and Suſſex. Here is alſo the Duke of <hi>Buckingham,</hi> who is thought will be de<g ref="char:EOLhyphen"/>ſigned Generall, as alſo the Duke of <hi>Richmond,</hi> the Earl of <hi>Holland</hi> the Earl of <hi>Peterborough,</hi> and divers other Lords and Gentlemen. And it is ſaid there is expected 7. or 800. more very ſpeedily.</p>
+               <p>Yeſterday morning they had a generall meeting at Hounſley-Heath, whither divers come from the city of <hi>London,</hi> and out of the Country, ſome with Armes, and ſome without, and they give out, that they doubt not but within three dayes to be three thouſand ſtrong, &amp; further ſaith, that they ſhall then new modilize the <hi>Parliament.</hi>
+               </p>
+               <pb n="4" facs="tcp:161936:4"/>
+               <p>They have ſeized on divers horſes of Sir <hi>John Ding<g ref="char:EOLhyphen"/>lies,</hi> and others, out of their Grounds and Stables, for the ſervice of the King.</p>
+               <p>They intend to randezvouz neer <hi>Hare</hi> Warren, a great Moor neer Hampton Court, and there to receive Or<g ref="char:EOLhyphen"/>ders (if not prevented,) touching their preſent De<g ref="char:EOLhyphen"/>ſign,</p>
+               <p>For which purpoſe, there are come divers of the Kings old Officers, under whom it is conceived they wil be ſetled. And that there are 3. or 400. foot that are de<g ref="char:EOLhyphen"/>ſigned to ſeize upon <hi>Lambeth</hi> houſe, and there to plant Ordnance againſt the two Houſes of Parliament, and we likewiſe heare, that a great party of horſe are ap<g ref="char:EOLhyphen"/>pointed to guard them.</p>
+               <p>The expect within 2 or 3 dayes to be in a Body of 2000. Horſe and Foot, and when they are thus joyned, then they are (as it is ſaid) to go to raiſe the ſiege at Colcheſter.</p>
+               <p>There is ſome ſpeeches as if they had a deſign to at<g ref="char:EOLhyphen"/>tempt the ſurprizing of the Comittee at Derby-houſe, before they go to relieve Colcheſter. They pretend to riſe to fetch the King home to the Parliament, &amp;c. and uſe many faire pretences to draw in others amongſt them.</p>
+               <p>But we hear, that there is a party of horſe comming from the Lord Generall to ſuppreſſe them, which is all at preſent from</p>
+               <closer>
+                  <signed>Your devoted ſervant, D. R.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:161936:4"/>
+            <head>A great Fight at <hi>Walmer</hi> Caſtle in <hi>Kent,</hi> betwixt a par<g ref="char:EOLhyphen"/>ty belonging to his Highneſſe the Prince of <hi>Wales,</hi> and the Parliaments Forces.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VPon Wedneſday laſt, there hapned a deſperate engagement betwixt the Parliaments Forces, and a party belonging to his Highneſſe the Prince of <hi>Wales,</hi> at <hi>Walmer</hi> Caſtle, the manner thus.</p>
+            <p>The Prince having ſent a party from France, under the command of Col. <hi>Fitz-Beal,</hi> with Armes and Am<g ref="char:EOLhyphen"/>munition for the relief of the two Caſtles of <hi>Deal</hi> and <hi>Sandown,</hi> and having effected the ſame, the ſaid Colonel reſolved for <hi>Walmer</hi> Caſtle, and thereupon hoyſted ſayl and ſteered towards <hi>Walmer,</hi> where they arrived towards the evening, accompanied with three other ſhips very well man'd, and when they were within half musket ſhot of the ſhore, they let fly a broad ſide at the Parliaments forces, who were intrenched upon the Breach neer the Caſtle; inſomuch, that there began a very dangerous and hot diſpute, the fight continuing for the ſpace of an hour and a half; the Cavalry plaid very faſt with their great and ſmall ſhot all the time, the Parliamenteers anſwered them with the like Vol<g ref="char:EOLhyphen"/>leyes, and at the laſt beat them off from the ſhore, and for<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed them to Sea, with the loſſe of ſix men, and nine wounded.</p>
+            <pb n="6" facs="tcp:161936:5"/>
+            <p>The Enemy fought reſolutely, but (it is ſup poſed) with a great deal of loſſe made their retreat, for it is ſaid that divers were ſeen to fall upon the Decks of the ſhips.</p>
+            <p>This is a great diſhearming to the beſieged, to have relief attempted without ſucceſſe, though as yet they ſlight any overture of ſurrender or treaty. Divers Gra<g ref="char:EOLhyphen"/>nadoes have been ſhot into the caſtle, yet are they within not brought thereby to the leaſt complyance of diſpoſition to yeeld.</p>
+            <closer>
+               <dateline>
+                  <hi>Canterbury</hi> 
+                  <date>July 6. 1648.</date> 
+                  <hi>four in the morning.</hi>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
